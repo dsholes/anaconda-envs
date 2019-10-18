@@ -1,0 +1,28 @@
+name: pelican
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - certifi=2018.11.29=py37_1000
+  - pip=18.1=py37_1000
+  - python=3.7.1=hc182675_1000
+  - setuptools=40.6.3=py37_0
+  - vc=14=0
+  - vs2015_runtime=14.0.25420=0
+  - wheel=0.32.3=py37_0
+  - wincertstore=0.2=py37_1002
+  - pip:
+    - blinker==1.4
+    - docutils==0.14
+    - feedgenerator==1.9
+    - jinja2==2.10
+    - markdown==3.0.1
+    - markupsafe==1.1.0
+    - pelican==4.0.1
+    - pygments==2.3.1
+    - python-dateutil==2.7.5
+    - pytz==2018.7
+    - six==1.12.0
+    - unidecode==1.0.23
+prefix: C:\Users\Sholes\AppData\Local\Continuum\anaconda3\envs\pelican
+
